@@ -1,0 +1,2 @@
+cat,meat,bushland.forest,small cage,cat
+fog,meat,water,rope,doggo
